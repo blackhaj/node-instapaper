@@ -1,9 +1,10 @@
-## Instapaper API
+## Instapaper API Library (fork of https://github.com/robertklep/node-instapaper)
 
 Node.js client for the [Instapaper API](https://www.instapaper.com/api/full).
 
-Work in progress!
+I have updated some of the code and added methods for bookmarks.
 
+### OLD README BELOW
 ### Installation
 
 ```
